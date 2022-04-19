@@ -1,7 +1,7 @@
 # Setup instructions
 
 # Clone the example app repo
-git clone https://github.com/usmankhan495/TestProject.git
+git clone https://github.com/usmankhan495/TestProject.git\
 cd TestProject
 
 # Install npm dependencies
